@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{4A6A9461-A147-4AC9-9AA7-99769B09D5DA}" Label="" LastModificationDate="1689592511" Name="ModeleOrienteObjet_1" Objects="45" Symbols="12" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{4A6A9461-A147-4AC9-9AA7-99769B09D5DA}" Label="" LastModificationDate="1689592085" Name="ModeleOrienteObjet_1" Objects="45" Symbols="12" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1417,9 +1417,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o10">
 <a:CreationDate>1689586838</a:CreationDate>
-<a:ModificationDate>1689592511</a:ModificationDate>
-<a:Rect>((-17699,-1727), (-9167,3750))</a:Rect>
-<a:ListOfPoints>((-9167,3750),(-15675,3750),(-15675,-1727))</a:ListOfPoints>
+<a:ModificationDate>1689589679</a:ModificationDate>
+<a:Rect>((-19424,-1988), (-9167,3750))</a:Rect>
+<a:ListOfPoints>((-9167,3750),(-17400,3750),(-17400,-1988))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
